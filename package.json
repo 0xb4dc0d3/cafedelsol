@@ -1,0 +1,38 @@
+{
+  "name": "cafedelsol",
+  "version": "1.0.0",
+  "description": "Official-website",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xb4dc0d3/cafedelsol.git"
+  },
+  "author": "Diego Collao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xb4dc0d3/cafedelsol/issues"
+  },
+  "homepage": "https://github.com/0xb4dc0d3/cafedelsol#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "fullcalendar": "^3.5.1",
+    "jquery": "3.0.0",
+    "lg-fullscreen.js": "^1.0.0",
+    "lg-video.js": "^1.0.0",
+    "lg-thumbnail.js": "^1.0.0",
+    "lightbox2": "^2.9.0",
+    "lightgallery.js": "^1.0.1",
+    "moment": "^2.18.1",
+    "popper.js": "1.11.0",
+    "slick-carousel": "^1.7.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}

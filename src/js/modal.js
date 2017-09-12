@@ -1,0 +1,12 @@
+$(document).ready(function(){
+  $("#myVideo").on("hidden.bs.modal",function(){
+    $("#iframeYoutube").attr("src","#");
+  })
+})
+
+function changeVideo(vId){
+  var iframe=document.getElementById("iframeYoutube");
+  iframe.src="https://www.youtube.com/embed/"+vId;
+
+  $("#myVideo").modal("show");
+}
