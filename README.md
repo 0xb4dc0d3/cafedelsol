@@ -1,3 +1,3 @@
 # cafedelsol
 Bootstrap 4.0@Beta (SASS / SCSS) + Slick.js + Lightbox2 +  lightGallery.js + fullCalendar.io + moment.js + gulpjs
-![screenshot](https://i.imgur.com/I9dRA6R.gifv)
+![screenshot](https://github.com/0xb4dc0d3/cafedelsol/blob/master/img/screenshot.gif)
